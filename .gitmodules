@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/meQlause/simpul-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/meQlause/simpul-frontend
+[submodule "frontend-landing-page"]
+	path = frontend-landing-page
+	url = https://github.com/meQlause/simpul-frontend-landing-page
